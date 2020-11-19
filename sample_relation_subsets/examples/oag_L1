@@ -1,0 +1,8 @@
+AP_write_first,PP_cite,PF_in_L3,PF_in_L2,PF_in_L5,PF_in_L4,FF_in
+AP_write_last,AP_write_other,in,PV_Conference,PV_Repository,PV_Patent,PP_cite,PF_in_L5
+AP_write_last,AP_write_other,AP_write_first,PV_Journal,PV_Repository,PV_Patent,PP_cite,PF_in_L0,PF_in_L3,PF_in_L2,PF_in_L5,PF_in_L4
+PV_Journal,PV_Repository,PV_Patent,PP_cite,PF_in_L3,PF_in_L2
+AP_write_other,AP_write_first,in,PV_Conference,PV_Journal,PV_Repository,PV_Patent,PF_in_L0,PF_in_L3,PF_in_L4
+AP_write_last,AP_write_other,AP_write_first,in,PV_Conference,PF_in_L0,PF_in_L2,PF_in_L5,PF_in_L4,FF_in
+AP_write_last,AP_write_first,in,PV_Conference,PV_Journal,PV_Repository,PV_Patent,PP_cite,PF_in_L2,PF_in_L5,FF_in
+AP_write_last,AP_write_other,in,PV_Conference,PP_cite,PF_in_L2,FF_in

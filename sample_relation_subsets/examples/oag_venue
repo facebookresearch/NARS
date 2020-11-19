@@ -1,0 +1,8 @@
+PF_in_L3,PF_in_L1,PF_in_L2,PF_in_L5,PF_in_L4
+in,PF_in_L0,PF_in_L3,PF_in_L2,FF_in
+PV_Conference,PV_Repository,PF_in_L3,PF_in_L1,PF_in_L2,PF_in_L5
+AP_write_last,AP_write_other,in,PV_Repository,PV_Patent,PF_in_L0,PF_in_L1,PF_in_L2,PF_in_L5
+AP_write_other,AP_write_first,PV_Conference,PP_cite,PF_in_L0,PF_in_L1,PF_in_L5,PF_in_L4
+PV_Conference,PV_Repository,PV_Patent,PF_in_L1,PF_in_L2,FF_in
+in,PV_Conference,PV_Repository,PV_Patent,PP_cite,PF_in_L0,PF_in_L1,FF_in
+in,PV_Conference,PV_Repository,PV_Patent,PF_in_L0,PF_in_L5,FF_in

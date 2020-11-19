@@ -1,0 +1,10 @@
+ckpts
+*.npy
+*.pt
+*.pyc
+*.pt
+*.tsv
+*.log
+*.pk
+train_triplets_*
+dataset
