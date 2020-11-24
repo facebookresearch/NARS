@@ -2,12 +2,12 @@ Neighbor Averaging over Relation Subgraphs (NARS)
 =================
 NARS is an algorithm for node classification on heterogeneous graphs, based on
 scalable neighbor averaging techniques that have been previously used in e.g.
-[SIGN] (https://arxiv.org/abs/2004.11198)) to heterogeneous scenarios by
+[SIGN](https://arxiv.org/abs/2004.11198)) to heterogeneous scenarios by
 generating neighbor-averaged features on sampled relation induced subgraphs.
 
 For more details, please check out our paper:
 
-[Scalable Graph Neural Networks for Heterogeneous Graphs]()
+[Scalable Graph Neural Networks for Heterogeneous Graphs](https://arxiv.org/abs/2011.09679)
 
 
 Setup
@@ -134,7 +134,12 @@ Citation
 --------------------------
 Please cite our paper with:
 ```tex
-
+@article{yu2020scalable,
+    title={Scalable Graph Neural Networks for Heterogeneous Graphs},
+    author={Yu, Lingfan and Shen, Jiajun and Li, Jinyang and Lerer, Adam},
+    journal={arXiv preprint arXiv:2011.09679},
+    year={2020}
+}
 ```
 
 License
