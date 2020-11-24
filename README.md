@@ -2,7 +2,7 @@ Neighbor Averaging over Relation Subgraphs (NARS)
 =================
 NARS is an algorithm for node classification on heterogeneous graphs, based on
 scalable neighbor averaging techniques that have been previously used in e.g.
-[SIGN](https://arxiv.org/abs/2004.11198)) to heterogeneous scenarios by
+[SIGN](https://arxiv.org/abs/2004.11198) to heterogeneous scenarios by
 generating neighbor-averaged features on sampled relation induced subgraphs.
 
 For more details, please check out our paper:
